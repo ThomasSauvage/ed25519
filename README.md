@@ -3,6 +3,7 @@
 ⚠️ DO NOT USE IN PRODUCTION. I made this project to learn the cryptographic principles behind this algorithm, with few considerations for side-channel attacks.
 
 Made as part of the Advanced Cryptography course at [École polytechnique](https://www.polytechnique.edu/en), by Prof. Benjamin Smith.
+
 Author: Thomas Sauvage.
 
 ## Extension
